@@ -29,6 +29,8 @@ chmod +x concordium-client && mv concordium-client ~/.cargo/bin
 - [x] Check If everything is correct
 ```
 chmod +x concordium-client && mv concordium-client ~/.cargo/bin
+```
+
 ```concordium-client --help
 ```
 <img src="./move_client.png" />
